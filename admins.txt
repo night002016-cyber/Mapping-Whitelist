@@ -1,11 +1,6 @@
 Dante_Kristian
-Mac_Wayne
-Carlos_Nowman
-Kenneth_MacRiver
-Zhorik_Maksi
 Mikail_Taheri
 Arkadiy_Popugay
-Clark_Nottingham
 Angel_Ramiress
 Codex_Exhausted
 Romeo_Rusich
@@ -16,3 +11,4 @@ Ayaka_Muller
 Harizma_Angeles
 Vitte_Lozzano
 Crowley_MacRiver
+Rikuto_Murakami
